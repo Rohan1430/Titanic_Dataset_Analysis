@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3,Poonam,Female,23,1,0,211151,7,NaN,S
+2,1,1,Abhimanyu,Male,24,1,0,32465,71,C85,C
+3,1,3,Abhishek,Male,21,0,0,11234,7,NaN,S
+4,1,1,Aman,Male,24,1,0,67543,53,C123,S
+5,0,3,Vishal,Male,22,0,0,124324,8,NaN,S
+6,0,3,Isha,Female,22,0,0,98754,8,NaN,Q
+7,0,1,Ritesh,Male,22,0,0,45386,51,E46,S
+8,0,3,Sunny,Male,23,3,1,17895,21,NaN,S
+9,1,3,Parveen,Male,22,0,2,58257,11,NaN,S
+10,1,2,Ashish,Male,20,1,0,170864,30,NaN,C
